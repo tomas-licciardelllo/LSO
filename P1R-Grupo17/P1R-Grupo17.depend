@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1725376143 source:c:\users\tomil\onedrive\documentos\facultad\prueba\p1r-grupo17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_op.h"
+
+1725376143 c:\users\tomil\onedrive\documentos\facultad\prueba\p1r-grupo17\lista_op.h
+	<string.h>
+	<conio.h>
+	"prestador.h"
+
+1725376143 c:\users\tomil\onedrive\documentos\facultad\prueba\p1r-grupo17\prestador.h
+	<string.h>
+
+1725839929 source:c:\users\tomil\onedrive\documentos\facultad\eda\prueba\p1r-grupo17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_op.h"
+
+1725840024 c:\users\tomil\onedrive\documentos\facultad\eda\prueba\p1r-grupo17\lista_op.h
+	<string.h>
+	<conio.h>
+	"prestador.h"
+
+1725376143 c:\users\tomil\onedrive\documentos\facultad\eda\prueba\p1r-grupo17\prestador.h
+	<string.h>
+
+1727720919 source:c:\users\padul\downloads\prueba\p1r-grupo17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_op.h"
+
+1727720919 c:\users\padul\downloads\prueba\p1r-grupo17\lista_op.h
+	<string.h>
+	<conio.h>
+	"prestador.h"
+
+1727720919 c:\users\padul\downloads\prueba\p1r-grupo17\prestador.h
+	<string.h>
+
